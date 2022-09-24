@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		602280D428DE34360044E9FB /* MovieDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602280D328DE34360044E9FB /* MovieDetailsViewController.swift */; };
+		602280D828DE40630044E9FB /* MovieGridViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602280D728DE40630044E9FB /* MovieGridViewController.swift */; };
+		602280DA28DE70FB0044E9FB /* MovieGridCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602280D928DE70FB0044E9FB /* MovieGridCell.swift */; };
 		60A39E3928D3E74E007B0CAB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A39E3828D3E74E007B0CAB /* AppDelegate.swift */; };
 		60A39E3B28D3E74E007B0CAB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A39E3A28D3E74E007B0CAB /* SceneDelegate.swift */; };
 		60A39E3D28D3E74E007B0CAB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60A39E3C28D3E74E007B0CAB /* ViewController.swift */; };
@@ -38,6 +41,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		602280D328DE34360044E9FB /* MovieDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetailsViewController.swift; sourceTree = "<group>"; };
+		602280D728DE40630044E9FB /* MovieGridViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridViewController.swift; sourceTree = "<group>"; };
+		602280D928DE70FB0044E9FB /* MovieGridCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridCell.swift; sourceTree = "<group>"; };
 		60A39E3528D3E74E007B0CAB /* FlixPt1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlixPt1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		60A39E3828D3E74E007B0CAB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		60A39E3A28D3E74E007B0CAB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -107,6 +113,9 @@
 				60A39E3A28D3E74E007B0CAB /* SceneDelegate.swift */,
 				60A39E3C28D3E74E007B0CAB /* ViewController.swift */,
 				60A39E3E28D3E74E007B0CAB /* Main.storyboard */,
+				602280D928DE70FB0044E9FB /* MovieGridCell.swift */,
+				602280D728DE40630044E9FB /* MovieGridViewController.swift */,
+				602280D328DE34360044E9FB /* MovieDetailsViewController.swift */,
 				60A39E7028D40971007B0CAB /* TableViewCell.swift */,
 				60A39E4128D3E751007B0CAB /* Assets.xcassets */,
 				60A39E4328D3E751007B0CAB /* LaunchScreen.storyboard */,
@@ -269,10 +278,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				602280D428DE34360044E9FB /* MovieDetailsViewController.swift in Sources */,
 				60A39E3D28D3E74E007B0CAB /* ViewController.swift in Sources */,
 				60A39E3928D3E74E007B0CAB /* AppDelegate.swift in Sources */,
 				60A39E7128D40971007B0CAB /* TableViewCell.swift in Sources */,
 				60A39E3B28D3E74E007B0CAB /* SceneDelegate.swift in Sources */,
+				602280D828DE40630044E9FB /* MovieGridViewController.swift in Sources */,
+				602280DA28DE70FB0044E9FB /* MovieGridCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -451,6 +463,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = FlixPt1/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = FlixPt1;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -478,6 +491,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = FlixPt1/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = FlixPt1;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
