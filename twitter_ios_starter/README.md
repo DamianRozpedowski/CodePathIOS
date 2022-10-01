@@ -24,9 +24,9 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <div>
-  <img src='twt1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-  <img src='twt2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-  <img src='twt3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-  <img src='twt4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  <img src='twt1.gif' title='Video Walkthrough' width='250px' alt='Video Walkthrough' />
+  <img src='twt2.gif' title='Video Walkthrough' width='250px' alt='Video Walkthrough' />
+  <img src='twt3.gif' title='Video Walkthrough' width='250px' alt='Video Walkthrough' />
+  <img src='twt4.gif' title='Video Walkthrough' width='250px' alt='Video Walkthrough' />
 </div>
 
