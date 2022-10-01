@@ -1,4 +1,4 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *Twitter*
 
 **Twitter** is a basic twitter app to read your tweets.
 
@@ -23,7 +23,10 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='twt1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='twt2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='twt3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='twt4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<div>
+  <img src='twt1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  <img src='twt2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  <img src='twt3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  <img src='twt4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+</div>
+
