@@ -24,8 +24,8 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <div>
-  <img src='stylelog.gif' width='300' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-  <img src='signup.gif' width='300' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-  <img src='upload.gif' width='300' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-  <img src='scroll.gif' width='300' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  <img src='stylelog.gif' width='300px' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  <img src='signup.gif' width='300px' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  <img src='upload.gif' width='300px' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  <img src='scroll.gif' width='300px' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 </div>
