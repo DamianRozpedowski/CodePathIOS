@@ -25,7 +25,7 @@ Here's a walkthrough of implemented user stories:
 
 <div>
   <img src='stylelog.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-  <img src='singup.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+  <img src='signup.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
   <img src='upload.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
   <img src='scroll.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 </div>
